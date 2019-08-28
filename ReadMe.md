@@ -40,3 +40,7 @@ c:\> py game.py
 ![web page](vscode.jpg)
 
 [Start up Visual Code](https://code.visualstudio.com/docs?start=true)
+
+[Learn Python Github URL](https://github.com/jwang1122/learnpython.git)
+
+[Python Class](https://www.youtube.com/watch?v=apACNr7DC_s)
