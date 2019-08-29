@@ -1,5 +1,24 @@
 {
-    "editor.fontSize": 14,
     "window.zoomLevel": 1,
-    "code-runner.clearPreviousOutput": true
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "editor.fontSize": 14,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "code-runner.showExecutionMessage": true,
+    "code-runner.clearPreviousOutput": true,
+    "python.pythonPath": "c:\\Users\\V801625\\workspace\\python\\venv\\Scripts\\python.exe",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true
 }
