@@ -60,3 +60,19 @@ where (venv) means the virtual environment is up and running.
 (venv) PS C:\Users\V801625\workspace\python> pip install requests
  python -m pip install --upgrade pip
 ```
+
+## Debug
+1. Select break point in the code
+2. click bug on left tool bar
+3. select configuration if no yet
+4. click green triangle beside "Debug"
+
+## Python.path
+Global python installation
+```json
+    {"python.pythonPath": "C:\\Users\\V801625\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",}
+```
+Local Environment
+```json
+    {"python.pythonPath": "c:\\Users\\V801625\\workspace\\python\\venv\\Scripts\\python.exe",}
+```

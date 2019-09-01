@@ -3,6 +3,7 @@ def add(a, b):
     return a + b
 
 def sub(a, b):
+    """Return value subtract second parameter from the first."""
     return a - b
 
 def multi(a, b):
