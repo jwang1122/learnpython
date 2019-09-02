@@ -1,7 +1,7 @@
 {
     "window.zoomLevel": 1,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Material Theme",
+    "workbench.colorTheme": "Material Theme Darker",
     "workbench.iconTheme": "ayu",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
