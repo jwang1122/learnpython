@@ -1,5 +1,13 @@
 def myage(birthYear):
     thisYear = 2019
-    print('My age is ',  (thisYear - birthYear))
+    age = (thisYear - birthYear)
+    print('My age is ',  age)
+    return age
 
-myage(2003)
+myage(2005)
+
+
+from datetime import date
+today = date.today()
+print(today)
+print(today.year)
