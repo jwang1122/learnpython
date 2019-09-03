@@ -44,10 +44,20 @@ right-click mouse, select "Run Python file in terminal."
 
 ## Create a virtual environment
 
-[Python Class](https://www.youtube.com/watch?v=apACNr7DC_s)
+[Class](https://www.youtube.com/watch?v=apACNr7DC_s)
 [Map, Filter, Reduce](https://www.youtube.com/watch?v=hUes6y2b--0)
 [lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
-s
+[Tuple](https://www.youtube.com/watch?v=NI26dqhs2Rk)
+[CSV](https://www.youtube.com/watch?v=Xi52tx6phRU)
+[File](https://www.youtube.com/watch?v=4mX0uPQFLDU)
+[Exception](https://www.youtube.com/watch?v=nlCKrKGHSSk)
+[Random](https://www.youtube.com/watch?v=zWL3z7NMqAs)
+[Recursion](https://www.youtube.com/watch?v=Qk0zUZW-U_M)
+[JSON](https://www.youtube.com/watch?v=pTT7HMqDnJw)
+[Function](https://www.youtube.com/watch?v=NE97ylAnrz4)
+[Lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
+[Unit test](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+
 ```bash
 PS C:\Users\V801625\workspace\python> py -m venv venv
 ```
@@ -132,4 +142,9 @@ User('Ailian', 'aw@live.com', 'default.jpg')
 Install package
 ```bash
 (venv) C:\Users\V801625\workspace\python\Flask_Blog>pip install pymongo
+```
+
+## Run unittest
+```bash
+Johns-MacBook-Pro:learnpython wangqianjiang$ python -m unittest test_circle
 ```
