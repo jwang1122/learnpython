@@ -44,3 +44,6 @@ c:\> py game.py
 [Learn Python Github URL](https://github.com/jwang1122/learnpython.git)
 
 [Python Class](https://www.youtube.com/watch?v=apACNr7DC_s)
+[Map, Filter, Reduce](https://www.youtube.com/watch?v=hUes6y2b--0)
+[lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
+s
