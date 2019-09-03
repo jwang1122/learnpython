@@ -23,10 +23,15 @@ group1 = [
 #for id in results.inserted_ids:
 #    print("Student is Added. The Id is", str(id))
 
-students = students.find({
-    'last_name':'Johnson'
-});
+#students = students.find({
+#    'age':{
+#        '$gt':14
+#    }
+#});
+#for s in students:
+#    pprint.pprint(s)
+
+students = students.find().sort([('age', 1)])
 for s in students:
     pprint.pprint(s)
-
 #print(group1)
