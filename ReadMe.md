@@ -25,6 +25,7 @@ f.close()
 c:\> py add.py
 c:\> py game.py
 right-click mouse, select "Run Python file in terminal."
+click triangle on top right
 ```
 
 ## import Python module, and use the module
@@ -42,9 +43,10 @@ right-click mouse, select "Run Python file in terminal."
 
 [Start up Visual Code](https://code.visualstudio.com/docs?start=true)
 
-## Create a virtual environment
+## Python tutorial YouTube
 
 [Class](https://www.youtube.com/watch?v=apACNr7DC_s)
+[Function](https://www.youtube.com/watch?v=NE97ylAnrz4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=12)
 [Map, Filter, Reduce](https://www.youtube.com/watch?v=hUes6y2b--0)
 [lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
 [Tuple](https://www.youtube.com/watch?v=NI26dqhs2Rk)
@@ -57,7 +59,19 @@ right-click mouse, select "Run Python file in terminal."
 [Function](https://www.youtube.com/watch?v=NE97ylAnrz4)
 [Lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
 [Unit test](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+[MongoDB](https://www.youtube.com/watch?v=onuOSdOWcqQ)
+[SQLLite](https://www.youtube.com/watch?v=pd-0G0MigUA)
+[10 Tips, Tricks](https://www.youtube.com/watch?v=C-gEQdGVXbk&t=21s)
+[5 mistakes](https://www.youtube.com/watch?v=zdJEYhA2AZQ&t=104s)
+[Help](https://www.youtube.com/watch?v=BVXv0-1Rcc8&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=8)
+[pyDoc](https://www.youtube.com/watch?v=URBSvqib0xw&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=33)
+[Decrator](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 
+## 5 Common mistakes
+1. name your file as standard library;
+2. name your variable as standard function name;
+
+## Create a virtual environment
 ```bash
 PS C:\Users\V801625\workspace\python> py -m venv venv
 ```

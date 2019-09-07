@@ -1,0 +1,17 @@
+INFO:root:Ran with args: ('John', 23), and {}
+2019-09-06 07:52:02,022 192.168.0.1 fbloggs  Problem: Run with args = ('John', 23).
+2019-09-06 07:53:01,170 Host Runner fbloggs  Problem: Run with args = ('John', 23).
+2019-09-06 07:54:52,564 Host Runner jwang    Problem: Run with args = ('John', 23).
+[INFO    ] 2019-09-06 08:01:49,862 Host Runner jwang    Problem: Run with args = ('John', 23).
+[INFO    ] 2019-09-06 08:02:58,146 Host Runner (jwang   ) Problem: Run with args = ('John', 23).
+[INFO    ] 2019-09-06 08:04:40,281 Host Runner (jwang   ) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:23:49 AM Host Runner (jwang   ) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:28:13 AM Host Runner (WANG) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:12:26 PM Host Runner (WANG) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:17:13 PM Host Runner (WANG) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:17:46 PM Host Runner (WANG) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:17:52 PM Host Runner (WANG) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:20:03 PM Host Runner (WANG) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:21:28 PM Host Runner (WANG) Problem: Run with args = ('John', 23).
+[INFO    ] 09/06/2019 08:25:18 PM Host Runner (display_info) Problem: Run with args = ('John', 23).
+[INFO    ] 09/07/2019 03:40:36 PM Host Runner (display_info) Problem: Run with args = ('John', 23).
