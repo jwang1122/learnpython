@@ -46,25 +46,45 @@ click triangle on top right
 ## Python tutorial YouTube
 
 [Class](https://www.youtube.com/watch?v=apACNr7DC_s)
+
 [Function](https://www.youtube.com/watch?v=NE97ylAnrz4&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=12)
+
 [Map, Filter, Reduce](https://www.youtube.com/watch?v=hUes6y2b--0)
+
 [lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
+
 [Tuple](https://www.youtube.com/watch?v=NI26dqhs2Rk)
+
 [CSV](https://www.youtube.com/watch?v=Xi52tx6phRU)
+
 [File](https://www.youtube.com/watch?v=4mX0uPQFLDU)
+
 [Exception](https://www.youtube.com/watch?v=nlCKrKGHSSk)
+
 [Random](https://www.youtube.com/watch?v=zWL3z7NMqAs)
+
 [Recursion](https://www.youtube.com/watch?v=Qk0zUZW-U_M)
+
 [JSON](https://www.youtube.com/watch?v=pTT7HMqDnJw)
+
 [Function](https://www.youtube.com/watch?v=NE97ylAnrz4)
+
 [Lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
+
 [Unit test](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+
 [MongoDB](https://www.youtube.com/watch?v=onuOSdOWcqQ)
+
 [SQLLite](https://www.youtube.com/watch?v=pd-0G0MigUA)
+
 [10 Tips, Tricks](https://www.youtube.com/watch?v=C-gEQdGVXbk&t=21s)
+
 [5 mistakes](https://www.youtube.com/watch?v=zdJEYhA2AZQ&t=104s)
+
 [Help](https://www.youtube.com/watch?v=BVXv0-1Rcc8&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=8)
+
 [pyDoc](https://www.youtube.com/watch?v=URBSvqib0xw&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=33)
+
 [Decrator](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 
 ## 5 Common mistakes
