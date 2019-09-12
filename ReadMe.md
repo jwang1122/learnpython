@@ -73,11 +73,9 @@ click triangle on top right
 
 [Unit test](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 
-<<<<<<< HEAD
 [Web Django](https://www.youtube.com/watch?v=OTmQOjsl0eg)
 [OOP](https://www.youtube.com/watch?v=qiSCMNBIP2g)
 
-=======
 [MongoDB](https://www.youtube.com/watch?v=onuOSdOWcqQ)
 
 [SQLLite](https://www.youtube.com/watch?v=pd-0G0MigUA)
@@ -97,7 +95,6 @@ click triangle on top right
 2. name your variable as standard function name;
 
 ## Create a virtual environment
->>>>>>> 7325b50d57b804c9bc453581afb0890113e14a0d
 ```bash
 PS C:\Users\V801625\workspace\python> py -m venv venv
 ```
