@@ -16,15 +16,16 @@ class User:
 
         age_in_days = (date.today() - self.birthday).days
         self.age = int(age_in_days / 365)
-
+    def __repr__(self):
+        return repr(f"{self.full_name} ({self.age})")
 
 user1 = User("John Wang", "20010901")
+print(user1)
 print(user1.full_name)
 print(user1.birthday)
 print(user1.first_name, user1.last_name)
 
 print(user1.age, "years old.")
-print(user1)
 
-user2 = User("John Wang", "20010901")
+user2 = User("Arron Wang", "20050901")
 print(user2)

@@ -13,8 +13,11 @@ print(10 ^ 2)
 print(10 ** 2)
 print("a^2+b^2 =", a ^ 2 + b ^ 2)
 print("(a^2) + (b^2) = ", (a ^ 2) + (b ^ 2))
-print( math.pow(a, 2) )
+print(math.pow(a, 2))
 x = math.sqrt(9)
 print(x)
 print(math.fabs(-19))
 print(math.pi)
+
+if a == 5:
+    print("a is {}".format(a))

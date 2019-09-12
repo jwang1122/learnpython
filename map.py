@@ -9,7 +9,7 @@ def area(r):
 r = 4
 print("The circle area for radius={0} is {1:.2f}".format(r, area(r)))
 
-radius = [2, 1.4, 4.3, 2.5]
+radius = [2, 1.4, 4.3, 2.5] # List
 
 #areas = []
 
@@ -19,5 +19,8 @@ radius = [2, 1.4, 4.3, 2.5]
 
 for x in map(area, radius):
     print(x)
-
+    
 print(list(map(area, radius)))
+
+radii = (2.3, 1.3, 4.2, 1.7) # Tuple
+print(list(map(lambda r: pi*r**2, radii)))

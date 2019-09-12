@@ -6,6 +6,7 @@
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "editor.fontSize": 14,
+    "editor.tabSize": 4,
     "python.linting.enabled": true,
     "python.formatting.provider": "black",
     "code-runner.showExecutionMessage": true,
@@ -21,14 +22,5 @@
     "python.testing.pytestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.unittestEnabled": true,
-    "python.unitTest.unittestArgs": [
-        "-v",
-        "-s",
-        ".",
-        "-p",
-        "test_*.py"
-    ],
-    "python.unitTest.pyTestEnabled": false,
-    "python.unitTest.nosetestsEnabled": false,
-    "python.unitTest.unittestEnabled": true
+
 }
