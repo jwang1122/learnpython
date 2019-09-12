@@ -58,6 +58,9 @@ right-click mouse, select "Run Python file in terminal."
 [Lambda Expression](https://www.youtube.com/watch?v=25ovCm9jKfA)
 [Unit test](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 
+[Web Django](https://www.youtube.com/watch?v=OTmQOjsl0eg)
+[OOP](https://www.youtube.com/watch?v=qiSCMNBIP2g)
+
 ```bash
 PS C:\Users\V801625\workspace\python> py -m venv venv
 ```

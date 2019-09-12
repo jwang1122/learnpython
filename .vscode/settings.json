@@ -10,7 +10,7 @@
     "python.formatting.provider": "black",
     "code-runner.showExecutionMessage": true,
     "code-runner.clearPreviousOutput": true,
-    "python.pythonPath": "c:\\Users\\V801625\\workspace\\python\\venv\\Scripts\\python.exe",
+    "python.pythonPath": "/usr/local/bin/python",
     "python.testing.unittestArgs": [
         "-v",
         "-s",
