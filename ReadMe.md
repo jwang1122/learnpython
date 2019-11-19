@@ -1,9 +1,11 @@
 # Python Programing
 
+$$\int_{-\infty}^\infty e^{-x^2} = \sqrt{\pi}$$
+
 ## Start Python command line
 
-```python
-c:\> py
+```bash
+c:\> python3
 ```
 
 ## VSCode for Python

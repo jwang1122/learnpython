@@ -1,0 +1,39 @@
+---
+# YAML Ain't Markup Language, Yet Another Markup Language
+# to validate yaml file, use http://www.yamllint.com/
+person:
+  name: &name "John Wang"
+  occupation: 'programmer'
+  age: !!float 34
+  gpa: !!str 3.54
+  favorite_num: 1e+10
+  mail: true
+  birthday: 1953-11-22 13:23:13 #ISO 8601
+  flaws: null
+  hobbies:
+    - hiking
+    - movies
+    - dancing
+    - sining
+  movies: ["dark Knight", "Good Will Hunting"]
+  friends:
+    - name: "Steph"
+      age: 22
+    - {name: "Adam", age: 22}
+    -
+      name: "Joe"
+      age: 23
+  description: >
+    Nulla consequat messa quis enim.
+    Donec pede justo, fringilla vel,
+    aliquet...
+  signature: |
+    Mike
+    Giraffe Academy
+    email - giraffeacademy.com
+  id: *name
+  base: &base
+    val: value1
+
+  foo: 
+    <<: *base
