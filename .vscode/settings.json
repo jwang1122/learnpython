@@ -1,5 +1,5 @@
 {
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.colorTheme": "Material Theme Darker",
     "workbench.iconTheme": "ayu",
@@ -11,7 +11,7 @@
     "python.formatting.provider": "black",
     "code-runner.showExecutionMessage": true,
     "code-runner.clearPreviousOutput": true,
-    "python.pythonPath": "C:/Users/wangq/AppData/Local/Programs/Python/Python37/python",
+    "python.pythonPath": "cardpay/bin/python",
     "python.testing.unittestArgs": [
         "-v",
         "-s",
