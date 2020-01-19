@@ -12,7 +12,7 @@ def my_timer(original):
 @my_timer
 def display_info(name, age):
     import time
-    time.sleep(2)
+    time.sleep(2) # simulate long process function
     print(f"display_info() run with arguments: ({name}, {age})")
 
 display_info("John", 23)

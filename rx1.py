@@ -1,7 +1,6 @@
 from rx import *
 
 def push_five_strings(observer, scheduler):
-    print(type(observer))
     observer.on_next("Alpha")
     observer.on_next("Beta")
     observer.on_next("Gamma")
